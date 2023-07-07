@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Development practices
-      link: /dev-practices
+      link: /dev-practices/testing
     - theme: alt
       text: Manifesto
       link: /manifesto
