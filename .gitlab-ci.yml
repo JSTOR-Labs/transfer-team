@@ -13,3 +13,5 @@ pages:
     - main
   tags:
     - test-runner
+  publish:
+    - .vitepress/dist
