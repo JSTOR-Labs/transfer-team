@@ -33,6 +33,5 @@ export default defineConfig({
       message: 'Made with ❤️ and 🦖'
     },
   },
-  outDir: '../public',
   base: "/capstan/platform-apps/labs/transfer-team/"
 })

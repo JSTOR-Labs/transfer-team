@@ -8,7 +8,7 @@ pages:
     - npm run docs:build
   artifacts:
     paths:
-      - public
+      - .vitepress/dist
   only:
     - main
   tags:
