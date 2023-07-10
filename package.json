@@ -3,5 +3,6 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
-  }
+  },
+  "base": "/capstan/platform-apps/labs/transfer-team/"
 }
