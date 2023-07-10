@@ -11,3 +11,5 @@ pages:
       - public
   only:
     - main
+  tags:
+    - test-runner
