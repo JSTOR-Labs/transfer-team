@@ -4,5 +4,8 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "base": "/capstan/platform-apps/labs/transfer-team/"
+  "base": "/capstan/platform-apps/labs/transfer-team/",
+  "dependencies": {
+    "vitepress": "^1.0.0-beta.5"
+  }
 }
