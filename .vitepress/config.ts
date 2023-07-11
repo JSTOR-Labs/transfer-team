@@ -33,5 +33,6 @@ export default defineConfig({
       message: 'Made with ❤️ and 🦖'
     },
   },
-  base: "/transfer-team/"
+  base: "/transfer-team",
+  cleanUrls: true
 })
