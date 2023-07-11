@@ -1,5 +1,7 @@
 # Manifesto
 
+See also the [Design principles](https://docs.google.com/document/d/1jLnUvXVQa-ecZvYEh9BRxMerUAOZW7xsJKkwm7seYyw/edit) (🔒).
+
 ## Use small screens.
 * Cypress tests should run with a mobile viewport size.
 * Mockups/wireframes should include a mobile option.
