@@ -33,5 +33,5 @@ export default defineConfig({
       message: 'Made with ❤️ and 🦖'
     },
   },
-  base: "/platform-apps/labs/transfer-team/"
+  base: "/transfer-team/"
 })

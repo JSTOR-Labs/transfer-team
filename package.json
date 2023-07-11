@@ -4,7 +4,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "base": "/platform-apps/labs/transfer-team/",
+  "base": "/transfer-team/",
   "dependencies": {
     "vitepress": "^1.0.0-beta.5"
   }
